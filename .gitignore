@@ -1,3 +1,7 @@
-﻿node_modules/
+node_modules/
 .env
 
+# Root-level helper scripts and markdown drafts
+/*.js
+/12-week-worklog.md
+/walkthrough.md
